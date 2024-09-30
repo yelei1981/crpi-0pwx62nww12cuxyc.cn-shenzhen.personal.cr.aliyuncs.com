@@ -1,1 +1,1 @@
-docker.io/flannel/flannel:v0.25.6
+flannel/flannel:v0.25.6
